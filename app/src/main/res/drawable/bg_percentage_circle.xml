@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Nền chính -->
+    <item>
+        <shape>
+            <solid android:color="#E8F5E9" /> <!-- Màu nền xanh lá nhạt -->
+            <corners android:radius="12dp" /> <!-- Bo góc -->
+            <stroke android:width="2dp" android:color="#0D47A1" /> <!-- Viền xanh lá -->
+        </shape>
+    </item>
+</layer-list>
+
+
+
+
